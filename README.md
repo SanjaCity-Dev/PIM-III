@@ -1,7 +1,6 @@
 # Índice
 
 * [Projeto](#projeto-template)
-* [Equipe](#equipe)
 * [Objetivo do Projeto](#objetivo-do-projeto)
 * [Funcionalidades e registros das sprints](#Funcionalidades-e-registros-das-sprints)
 * [Cronograma](#Cronograma)
@@ -11,7 +10,7 @@
 * [Competências desenvolvidas](#competências-desenvolvidas)
 * [Autores](#autores)
 
-# Projeto Integrado Multidisciplinar III(PIM III) 
+# Projeto Integrado Multidisciplinar III (PIM III) 
 Projeto pedagógico alicerçado na Metodologia API para ensino-aprendizado focado no desenvolvimento de competências e fundamentada nos pilares de aprendizado com problemas reais (RPBL), validação externa e mentalidade ágil. 
 Uso de estratégias para entender o problema, conceber uma solução viável ao desenvolver e implementar o MVP seguido de sua operação (CDIO). 
 Os resultados dos projetos devem obedecer ao Aviso Legal disponível no site da UNIP SJC com definição das datas do kickoff e das sprints
@@ -40,7 +39,7 @@ Realizar o levantamento e análise de requisitos de um sistema de controle de fo
 
 Interface do Sistema
 
-![EXPORT](https://www.figma.com/proto/aT7BVfxnM8l5GNDW6j8t3i/PIM-III?node-id=1-2&t=viV6BQr1TnmGnNl5-0&scaling=contain&page-id=0%3A1&starting-point-node-id=1%3A2)
+[EXPORT](https://www.figma.com/proto/aT7BVfxnM8l5GNDW6j8t3i/PIM-III?node-id=1-2&t=viV6BQr1TnmGnNl5-0&scaling=contain&page-id=0%3A1&starting-point-node-id=1%3A2)
 
 
 
