@@ -17,11 +17,11 @@ Os resultados dos projetos devem obedecer ao Aviso Legal disponível no site da 
 
 Sprint | Previsão | Status|
 |------|--------|------|
-|00 | 25/09/2024 | concluído| 
-|01| 16/10/2024  | concluído |
-|02| 13/11/2024 | concluído|
-|03| 27/11/2024 | a fazer |
-|Relatório do Projeto| 12/11/2024 | em progresso |
+|00 | 20/03/2024 | concluído| 
+|01| 16/04/2024  | concluído |
+|02| 20/05/2024 | concluído|
+|03| 25/05/2024 | a fazer |
+|Relatório do Projeto| 25/05/2024 | em progresso |
 
 
 # Objetivo do Projeto
