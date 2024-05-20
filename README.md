@@ -60,16 +60,16 @@ Interface do Sistema
 # Backlog do produto
 
  ## SPRINT BACKLOG
-![GERENCIAR](https://github.com/LogixFatec/LOGIX_API/assets/144241887/f4963303-b986-4c59-8a20-48981633d4bf)
+![GERENCIAR]()
 
  ## SPRINT 1
-![backlogsprint1](https://github.com/LogixFatec/LOGIX_API/assets/144241887/998d1fb9-b40c-4d3b-aeea-9c4efde4ea6d)
+![backlogsprint1]()
 
  ## SPRINT 2
-![backlogsprint2](https://github.com/LogixFatec/LOGIX_API/assets/144241887/caa8af9b-7d27-4a28-9de9-0d3fb9b12a5a)
+![backlogsprint2]()
 
  ## SPRINT 3
-![SPRINT 3](https://github.com/LogixFatec/LOGIX_API/assets/144241887/16472e1d-e069-4b1c-a6f5-cc955fbaad8d)
+![SPRINT 3]()
 
 Regras de Negócio
 - 
@@ -88,9 +88,9 @@ Requisitos não funcionais
 User stories
 
 # Burndown
-![sprint backlog](https://github.com/LogixFatec/LOGIX_API/assets/144241887/5f1a6a0a-b5b4-4a09-bdca-4af6ce37409e)
-![Burndown 2](https://github.com/LogixFatec/LOGIX_API/assets/144241887/5ec690a1-92f8-4d39-8e09-4a068da8aa87)
-![burndown sprint 3](https://github.com/LogixFatec/LOGIX_API/assets/144241887/e2a079f2-9eb4-469a-8612-827f6ac94209)
+![sprint backlog]()
+![Burndown 2]()
+![burndown sprint 3]()
 
 # Sprints
 
