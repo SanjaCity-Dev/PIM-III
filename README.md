@@ -48,7 +48,7 @@ Interface do Sistema
 > Excel;
 > Astah;
 > SQLQuery;
-> Cisual Studio;
+> Visual Studio;
 > Github;
 > Figma;
   
