@@ -95,40 +95,40 @@ User stories
 # Sprints
 
 ## Sprint 0. Introdução
-- [x] Registro do chamado
+- [x] 
 - [x] Gerenciamento do login dos membros nas plataformas
 - [x] Estruturação do GitHub
-- [x] Estruturação do Jira Software
-- [X] Atribuição das tarefas
-- [X] Criar organograma
-- [X] Estudar sobre análise SWOT e metodologia ágil
-- [X] Relatório
-- [X] Envio do e-mail de apresentação
+- [x] 
+- [X] 
+- [X]
+- [X] 
+- [X] 
+- [X] 
 
 ## Sprint 1. Concepção
-- [X] Tabelas relacionais
-- [X] Criação do dashboard
-- [X] Início do tratamento de dados
-- [X] Pesquisas sobre CIF&FOB
-- [X] Relatório
+- [X] 
+- [X] 
+- [X] 
+- [X] 
+- [X] 
 
 ## Sprint 2. Desenvolvimento do Projeto
-- [X] Registro de funcionamento do dashboard
-- [X] Pesquisa sobre as movimentações de cargas
-- [X] Relatório
-- [X] Estudar sobre MVP
-- [X] Selecionar 5 produtos
-- [X] Pesquisa sobre cadeia de abastecimento
-- [X] Pesquisa no site COMEX STAT
-- [X] Cadeias produtivas dos Estados
-- [X] Dashboard
+- [X] 
+- [X] 
+- [X] 
+- [X]
+- [X] 
+- [X] 
+- [X] 
+- [X] 
+- [X] 
    
 ## Sprint 3 . Implementação
-- [X] Listagem das cidades
-- [X] Revisão do Dashboard
-- [X] Documentações
-- [X] Análise da causa raíz
-- [X] Criação de um storytelling
+- [X] 
+- [X] 
+- [X] 
+- [X] 
+- [X] 
 - [X] Atualização do Github
 
 
