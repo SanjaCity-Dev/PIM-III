@@ -22,12 +22,8 @@ Sprint | Previsão | Status|
 |01| 16/10/2024  | concluído |
 |02| 13/11/2024 | concluído|
 |03| 27/11/2024 | a fazer |
-|Relatório do Projeto| 12/11/2023 | em progresso |
+|Relatório do Projeto| 12/11/2024 | em progresso |
 
-
-# Equipe
-   
-![GERENCIAR]()
 
 # Objetivo do Projeto
 Realizar o levantamento e análise de requisitos de um sistema de controle de fornecedores, produção e venda dos produtos (ou prestação de serviços), para uma fazenda urbana de uma startup focada em garantir inovação para área de segurança alimentar.
@@ -42,12 +38,10 @@ Realizar o levantamento e análise de requisitos de um sistema de controle de fo
 
 # Funcionalidades e registros das sprints
 
-Interface do Dashboard
+Interface do Sistema
 
-![EXPORT](https://github.com/LogixFatec/LOGIX_API/assets/144241887/66ac7ac3-35f6-4a83-82e6-d268be98db93)
+![EXPORT](https://www.figma.com/proto/aT7BVfxnM8l5GNDW6j8t3i/PIM-III?node-id=1-2&t=viV6BQr1TnmGnNl5-0&scaling=contain&page-id=0%3A1&starting-point-node-id=1%3A2)
 
-# Vídeo Apresentação
-[Vídeo do Dashboard](https://youtu.be/SokmKuw8kY8)
 
 
 ## Tecnologias Utilizadas
