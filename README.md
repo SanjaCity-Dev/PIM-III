@@ -27,7 +27,7 @@ Sprint | Previsão | Status|
 
 # Equipe
    
-![GERENCIAR](https://github.com/LogixFatec/LOGIX_API/assets/144241887/a7bb426e-b06b-43ef-8aed-b76ef206670f)
+![GERENCIAR]()
 
 # Objetivo do Projeto
 Realizar o levantamento e análise de requisitos de um sistema de controle de fornecedores, produção e venda dos produtos (ou prestação de serviços), para uma fazenda urbana de uma startup focada em garantir inovação para área de segurança alimentar.
