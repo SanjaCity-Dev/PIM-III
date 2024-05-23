@@ -49,6 +49,7 @@ Interface do Sistema
 > Visual Studio;
 > Github;
 > Figma;
+> Jira;
   
 
 # Cronograma
