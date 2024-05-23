@@ -15,10 +15,10 @@
 
 Sprint | Previsão | Status|
 |------|--------|------|
-|00 | 20/03/2024 | concluído| 
-|01| 16/04/2024  | concluído |
-|02| 20/05/2024 | concluído|
-|03| 25/05/2024 | a fazer |
+|01 | 17/03/2024 | concluído| 
+|02| 17/05/2024  | em progresso |
+|03| 23/05/2024 | em progresso|
+|04| 23/05/2024 | em progresso |
 |Relatório do Projeto| 25/05/2024 | em progresso |
 
 
