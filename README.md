@@ -93,42 +93,34 @@ User stories
 
 # Sprints
 
-## Sprint 0. Introdução
-- [x] 
-- [x] Gerenciamento do login dos membros nas plataformas
-- [x] Estruturação do GitHub
-- [x] 
-- [X] 
-- [X]
-- [X] 
-- [X] 
-- [X] 
+## Sprint 1.
+- [x] Criar Cronograma
+- [x] Pesquisa sobre metodologia ágil
+- [x] Estudo e estruturação do GitHub
+- [x] Estudo sobre fazendas urbanas
+- [X] Definição do modelo de fazenda urbana utilizado no projeto
+- [X] Definição das funções de cada integrante do grupo
+- [X] Definição das ferramentas que serão utilizadas no desenvolvimento do projeto
 
-## Sprint 1. Concepção
-- [X] 
-- [X] 
-- [X] 
-- [X] 
-- [X] 
+## Sprint 2.
+- [X] Estudo sobre o FIGMA
+- [X] Desenvolvimento do layout do projeto de telas do programa
+- [X] Estudo sobre o ASTAH
+- [X] Desenvolvimento do Diagrama de Casos de Uso
+- [X] Desenvolvimento das Planilhas de Teste
 
-## Sprint 2. Desenvolvimento do Projeto
-- [X] 
-- [X] 
-- [X] 
-- [X]
-- [X] 
-- [X] 
-- [X] 
-- [X] 
-- [X] 
+## Sprint 3. Desenvolvimento do Projeto
+- [X] Estudo sobre o Visual Studio
+- [X] Desenvolvimento do PoC
+
    
-## Sprint 3 . Implementação
-- [X] 
-- [X] 
-- [X] 
-- [X] 
-- [X] 
-- [X] Atualização do Github
+## Sprint 4.
+- [X] Desenvolvimento do Diagrama UML
+- [X] Desenvolvimento do Diagrama de Classe
+- [X] Desenvolvimento do Diagrama de Sequência
+- [X] Desenvolvimento do Diagrama de Implantação
+- [X] Estudo sobre o SQLQuery
+- [X] Desenvolvimento do Diagrama ER
 
 
 
