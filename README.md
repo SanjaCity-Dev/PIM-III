@@ -7,7 +7,6 @@
 * [Backlog do Produto](#Backlog-do-Produto)
 * [Burndown](#Burndown)
 * [Sprints](#Sprints)
-* [Competências desenvolvidas](#competências-desenvolvidas)
 * [Autores](#autores)
 
 # Projeto Integrado Multidisciplinar III (PIM III) 
@@ -74,15 +73,17 @@ Regras de Negócio
 - 
 
 Requisitos funcionais 
--   
--  
-- 
+- Gestão de Produção  
+- Gestão de Fornecedores
+- Atendimento ao cliente
+- Gestão de Perfis
+- Logout
 
   
 Requisitos não funcionais
-- Usar tecnologias especifícas/apoio/tecnológicas 
-- Metodologias ágil
-- Power BI / Jira / Canva
+- Segurança 
+- Usabilidade
+- Perfomance
   
 User stories
 
