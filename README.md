@@ -93,7 +93,7 @@ User stories
 
 # Sprints
 
-## Sprint 1.
+## Sprint 1
 - [x] Criar Cronograma
 - [x] Pesquisa sobre metodologia ágil
 - [x] Estudo e estruturação do GitHub
@@ -102,26 +102,24 @@ User stories
 - [X] Definição das funções de cada integrante do grupo
 - [X] Definição das ferramentas que serão utilizadas no desenvolvimento do projeto
 
-## Sprint 2.
+## Sprint 2
 - [X] Estudo sobre o FIGMA
 - [X] Desenvolvimento do layout do projeto de telas do programa
 - [X] Estudo sobre o ASTAH
 - [X] Desenvolvimento do Diagrama de Casos de Uso
 - [X] Desenvolvimento das Planilhas de Teste
 
-## Sprint 3. Desenvolvimento do Projeto
+## Sprint 3
 - [X] Estudo sobre o Visual Studio
 - [X] Desenvolvimento do PoC
 
-   
-## Sprint 4.
+## Sprint 4
 - [X] Desenvolvimento do Diagrama UML
 - [X] Desenvolvimento do Diagrama de Classe
 - [X] Desenvolvimento do Diagrama de Sequência
 - [X] Desenvolvimento do Diagrama de Implantação
 - [X] Estudo sobre o SQLQuery
 - [X] Desenvolvimento do Diagrama ER
-
 
 
 </details>
