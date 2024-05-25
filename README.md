@@ -128,7 +128,7 @@ User stories
 # Autores
 |    Função     | Nome                                  |                                                                                                                                                       GitHub                                                                                                                                                      |
 | :-----------: | :------------------------------------ | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| Product Owner |  Rodrigo Nascimento |    [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/R0dr1g0Dev) |
+| Product Owner |  Rodrigo Nascimento |    [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/ROdr1gODev) |
 | Scrum Master  | Fabio Dias |             [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Fabiodiasjr) |
 | Desenvolvedor  | Ana Clara |             [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/AninhaDias) |
 | Desenvolvedor | Caio Filipe |            [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/caiofilipesc/caiofilipe) |
