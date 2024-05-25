@@ -137,9 +137,9 @@ User stories
 # Autores
 |    Função     | Nome                                  |                                                                                                                                                       GitHub                                                                                                                                                      |
 | :-----------: | :------------------------------------ | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| Product Owner |  Rodrigo Nascimento |    [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/carolinealvs) |
-| Scrum Master  | Fabio Dias |             [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Ingridlog) |
-| Desenvolvedor  | Ana Clara |             [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/pyramidheather) |
-| Desenvolvedor | Caio Filipe |            [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/RomildoNascimento) |
-|  Desenvolvedor  | Felipe Xavier |        [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/DarleneLima) |
-|  Desenvolvedor  | Victor Hideki |        [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/DarleneLima) |
+| Product Owner |  Rodrigo Nascimento |    [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/R0dr1g0Dev) |
+| Scrum Master  | Fabio Dias |             [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Fabiodiasjr) |
+| Desenvolvedor  | Ana Clara |             [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/AninhaDias) |
+| Desenvolvedor | Caio Filipe |            [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/caiofilipesc/caiofilipe) |
+|  Desenvolvedor  | Felipe Xavier |        [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/fehxavier) |
+|  Desenvolvedor  | Victor Hideki |        [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/vsHideki) |
