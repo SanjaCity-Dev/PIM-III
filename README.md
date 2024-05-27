@@ -75,17 +75,14 @@ Regras de Negócio
 Requisitos funcionais 
 - Gestão de Produção  
 - Gestão de Fornecedores
-- Atendimento ao cliente
 - Gestão de Perfis
 - Logout
 
-  
 Requisitos não funcionais
 - Segurança 
 - Usabilidade
 - Perfomance
-  
-User stories
+- Atendimento ao cliente  
 
 # Burndown
 ![sprint backlog]()
