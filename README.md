@@ -58,7 +58,7 @@ Realizar o levantamento e análise de requisitos de um sistema de controle de fo
 # Backlog do produto
 
  ## SPRINT 1 E SPRINT BACKLOG
-![SPRINT 1 E SPRINT BACKLOG](https://github.com/SanjaCity-Dev/PIM-III/issues/42#issuecomment-2132455322)
+![SPRINT 1 E SPRINT BACKLOG](https://github.com/SanjaCity-Dev/PIM-III/assets/142556863/e857b971-5304-42f7-8948-c5f67efdb927)
 
  ## SPRINT 2
 ![backlogsprint1]()
