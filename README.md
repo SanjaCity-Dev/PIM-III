@@ -4,7 +4,7 @@
 * [Objetivo do Projeto](#objetivo-do-projeto)
 * [Funcionalidades e registros das sprints](#Funcionalidades-e-registros-das-sprints)
 * [Backlog do Produto](#Backlog-do-Produto)
-* [Regras e Negócio](#Regras-de-Negócio)
+* [Regras de Negócio](#Regras-de-Negócio)
 * [Sprints](#Sprints)
 * [Autores](#autores)
 
