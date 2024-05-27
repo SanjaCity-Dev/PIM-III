@@ -3,22 +3,19 @@
 * [Projeto](#projeto-template)
 * [Objetivo do Projeto](#objetivo-do-projeto)
 * [Funcionalidades e registros das sprints](#Funcionalidades-e-registros-das-sprints)
-* [Cronograma](#Cronograma)
 * [Backlog do Produto](#Backlog-do-Produto)
-* [Burndown](#Burndown)
 * [Sprints](#Sprints)
 * [Autores](#autores)
 
 # Projeto Integrado Multidisciplinar III (PIM III) 
 
-
 Sprint | Previsão | Status|
 |------|--------|------|
 |01 | 17/03/2024 | concluído| 
-|02| 23/05/2024  | em progresso |
-|03| 23/05/2024 | em progresso|
-|04| 23/05/2024 | em progresso |
-|Relatório do Projeto| 25/05/2024 | em progresso |
+|02| 23/05/2024  | concluído |
+|03| 23/05/2024 | concluído|
+|04| 23/05/2024 | concluído |
+|Relatório do Projeto| 25/05/2024 | concluído |
 
 
 # Objetivo do Projeto
@@ -36,8 +33,7 @@ Realizar o levantamento e análise de requisitos de um sistema de controle de fo
 
 ## Interface do Sistema
 
-[EXPORT](https://www.figma.com/proto/aT7BVfxnM8l5GNDW6j8t3i/PIM-III?node-id=1-2&t=viV6BQr1TnmGnNl5-0&scaling=contain&page-id=0%3A1&starting-point-node-id=1%3A2)
-
+[PROJETO DE TELAS](https://www.figma.com/proto/aT7BVfxnM8l5GNDW6j8t3i/PIM-III?node-id=1-2&t=viV6BQr1TnmGnNl5-0&scaling=contain&page-id=0%3A1&starting-point-node-id=1%3A2)
 
 
 ## Tecnologias Utilizadas
@@ -50,10 +46,6 @@ Realizar o levantamento e análise de requisitos de um sistema de controle de fo
 > Figma;
 > Jira;
   
-
-# Cronograma
-
-[(Cronograma)](https://github.com/users/LogixFatec/projects/3/views/1)
 
 # Backlog do produto
 
@@ -70,7 +62,7 @@ Realizar o levantamento e análise de requisitos de um sistema de controle de fo
 ![SPRINT 4](https://github.com/SanjaCity-Dev/PIM-III/assets/142556863/db31b2e3-ff76-4c2a-b032-a8d5944dc04c)
 
 Regras de Negócio
-- 
+Fornecer um sistema de login seguro e uma interface de menu interativa para a empresa fictícia Sanja Farm, com o objetivo principal de auxiliar na gestão e visualização de produtos, clientes, fornecedores, e outras informações relevantes de forma organizada e acessível.
 
 Requisitos funcionais 
 - Gestão de Produção  
@@ -83,11 +75,6 @@ Requisitos não funcionais
 - Usabilidade
 - Perfomance
 - Atendimento ao cliente  
-
-# Burndown
-![sprint backlog]()
-![Burndown 2]()
-![burndown sprint 3]()
 
 # Sprints
 
