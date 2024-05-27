@@ -61,17 +61,17 @@ Realizar o levantamento e análise de requisitos de um sistema de controle de fo
  ## SPRINT 4
 ![SPRINT 4](https://github.com/SanjaCity-Dev/PIM-III/assets/142556863/db31b2e3-ff76-4c2a-b032-a8d5944dc04c)
 
-Regras de Negócio
+# Regras de Negócio
 
 Fornecer um sistema de login seguro e uma interface de menu interativa para a empresa fictícia Sanja Farm, com o objetivo principal de auxiliar na gestão e visualização de produtos, clientes, fornecedores, e outras informações relevantes de forma organizada e acessível.
 
-Requisitos funcionais 
+## Requisitos funcionais 
 - Gestão de Produção  
 - Gestão de Fornecedores
 - Gestão de Perfis
 - Logout
 
-Requisitos não funcionais
+## Requisitos não funcionais
 - Segurança 
 - Usabilidade
 - Perfomance
